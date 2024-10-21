@@ -1,0 +1,75 @@
+Setting up interface: rr-0-1
+Setting up interface: r-0
+Setting up interface: r-1
+am primit un arp reply
+ip_header1->daddr = 33663168
+am gasit best_route
+am primit un arp reply
+ip_header1->daddr = 33597632
+am gasit best_route
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+checksum gresit 
+am primit un arp reply
+ip_header1->daddr = 33794240
+am gasit best_route
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+pachetul e pentru mine
+ttl nu mai e
+nu am gasit best_route
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
+am trimis
